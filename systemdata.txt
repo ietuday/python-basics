@@ -1,0 +1,11 @@
+/home/geeky-uday/Downloads/python/abc.txt
+/home/geeky-uday/Downloads/python/specialFunc.py
+/home/geeky-uday/Downloads/python/userdata.txt
+/home/geeky-uday/Downloads/python/function.py
+/home/geeky-uday/Downloads/python/list.py
+/home/geeky-uday/Downloads/python/file.py
+/home/geeky-uday/Downloads/python/systemdata.txt
+/home/geeky-uday/Downloads/python/userinput.py
+/home/geeky-uday/Downloads/python/testFunc.py
+/home/geeky-uday/Downloads/python/tuple.py
+/home/geeky-uday/Downloads/python/.vscode/settings.json
